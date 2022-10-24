@@ -3,7 +3,7 @@ In case of violation of any rights, you can contact me through the following ema
 
 s.naddafan@yahoo.com
 
-Using all the codes and links in README.md does not require permission!
+<h2>Using all the codes and links in README.md does not require permission!</h2>
 
 My YouTube channel link:
 
