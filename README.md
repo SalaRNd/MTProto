@@ -35,7 +35,7 @@ http://seriyps.ru/mtpgen.html
 
 <a href="MTProxybot">https://t.me/MTProxybot</a>
 
-<h2>بهتر هست قبل از مشاهده ارور Node is not running کانفینگ های زیر را هم انجام دهید:</h2>
+<h3>بهتر هست قبل از مشاهده ارور Node is not running کانفینگ های زیر را هم انجام دهید:</h3>
 
 با استفاده از کد زیر اقدام به نصب nano کنید:
 
