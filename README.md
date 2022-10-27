@@ -4,14 +4,14 @@
 
 پیشنهاد بنده خرید سرور از وب سایت آنلاین سرور هست
 
-https://my.onlineserver.ir/aff.php?aff=414
+<a href="https://my.onlineserver.ir/aff.php?aff=414" target="_blank">خرید سرور مجازی vps </a>
 
 <p><a href="https://my.onlineserver.ir/aff.php?aff=414">
 <img src="https://onlineserver.ir/my/banner/Onlineservers-234.gif"></a></p>
 
- نرم افزار putty را دانلود کنید
+ نرم افزار <a href="https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html" target="_blank"> PUTTY </a> را دانلود کنید
 
-https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html
+
 
 با استفاده از کد زیر فایروال را بر روی سرور خود نصب میکنید:
 
