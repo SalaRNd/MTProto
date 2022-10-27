@@ -29,7 +29,7 @@
 
 با استفاده از لینک زیر میتوانید کد SECRET مخصوص MTProto را دریافت کنید:
 
-<a href="http://seriyps.ru/mtpgen.html" target="_blank">دریافت  سکرت کد مخصوص پروکسی </a>
+<a href="http://seriyps.ru/mtpgen.html" target="_blank">دریافت SECRET کد مخصوص پروکسی </a>
 
 با استفاده از لینک زیر (بات تلگرام) میتوانید کد TAG مخصوص MTProto را دریافت کنید:
 
