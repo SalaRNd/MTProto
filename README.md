@@ -2,9 +2,9 @@
 
 ابتدا یک سرور (vps) خارج از کشور تهیه کنید
 
-پیشنهاد بنده خرید سرور از وب سایت آنلاین سرور هست
+پیشنهاد بنده <a href="https://my.onlineserver.ir/aff.php?aff=414" target="_blank">خرید سرور مجازی (VPS)</a>  از وب سایت آنلاین سرور هست
 
-<a href="https://my.onlineserver.ir/aff.php?aff=414" target="_blank">خرید سرور مجازی vps </a>
+
 
 <p><a href="https://my.onlineserver.ir/aff.php?aff=414">
 <img src="https://onlineserver.ir/my/banner/Onlineservers-234.gif"></a></p>
@@ -29,11 +29,11 @@
 
 با استفاده از لینک زیر میتوانید کد SECRET مخصوص MTProto را دریافت کنید:
 
-http://seriyps.ru/mtpgen.html
+<a href="http://seriyps.ru/mtpgen.html" target="_blank">دریافت  سکرت کد مخصوص پروکسی </a>
 
 با استفاده از لینک زیر (بات تلگرام) میتوانید کد TAG مخصوص MTProto را دریافت کنید:
 
-<a href="MTProxybot">https://t.me/MTProxybot</a>
+<a href="https://t.me/MTProxybot" target="_blank">دریافت کد TAG از بات تلگرام MTProto</a>
 
 <h3>بهتر هست قبل از مشاهده ارور Node is not running کانفینگ های زیر را هم انجام دهید:</h3>
 
