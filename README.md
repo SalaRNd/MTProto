@@ -21,7 +21,7 @@
 
 نصب اتوماتیک پروکسی MTPtoto:
 
-<pre>ccurl -L -o mtp_install.sh https://git.io/fj5ru && bash mtp_install.sh -p [PORT] -s [SECRET] -t [TAG] -a dd -a tls -d [FAKE TLS]</pre>
+<pre>curl -L -o mtp_install.sh https://git.io/fj5ru && bash mtp_install.sh -p [PORT] -s [SECRET] -t [TAG] -a dd -a tls -d [FAKE TLS]</pre>
 
 بخش های [PORT]، [SECRET]، [TAG] و [FAKE TLS] را مطابق ویدیو یوتیب تکمیل کنید.
 
