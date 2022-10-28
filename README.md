@@ -7,7 +7,7 @@
 <p><a href="https://my.onlineserver.ir/aff.php?aff=414">
 <img src="https://onlineserver.ir/my/banner/Onlineservers-234.gif"></a></p>
 
-همچنین میتوانید از <a href="https://my.onlineserver.ir/aff.php?aff=414" target="_blank">اینجا سرور مجازی  (VPS) با ارز دیجیتال</a> بخرید. (با فیلتر شکن وارد لینک شوید)
+همچنین میتوانید از <a href="https://support.cloudzy.com/aff.php?aff=1557" target="_blank">اینجا سرور مجازی  (VPS) با ارز دیجیتال</a> بخرید. (با فیلتر شکن وارد لینک شوید)
 
  نرم افزار <a href="https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html" target="_blank"> PUTTY </a> را دانلود کنید
 
