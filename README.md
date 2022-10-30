@@ -4,8 +4,8 @@
 
 پیشنهاد بنده <a href="https://my.onlineserver.ir/aff.php?aff=414" target="_blank">خرید سرور مجازی (VPS)</a>  از وب سایت آنلاین سرور هست.
 
-<p><a href="https://my.onlineserver.ir/aff.php?aff=414">
-<img src="https://onlineserver.ir/my/banner/Onlineservers-234.gif"></a></p>
+البته الان خدماتی ارائه نمیدن و نمیتوانید سرور vps داخل یا خارج کشور از سایت میزبان داده پاسارگاد تهیه کنید
+به همین علت بهتره وب سایتی که لینکش را در پایین قرار داده با استفاده از ارز دیجیتال یک vps تهیه بکنید
 
 همچنین میتوانید از <a href="https://support.cloudzy.com/aff.php?aff=1557" target="_blank">اینجا سرور مجازی  (VPS) با ارز دیجیتال</a> بخرید. (با فیلتر شکن وارد لینک شوید)
 
