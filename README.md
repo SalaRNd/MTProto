@@ -11,6 +11,8 @@
 
  نرم افزار <a href="https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html" target="_blank"> PUTTY </a> را دانلود کنید
 
+بهتر هست این ویدیو را در <a href="https://youtu.be/eRKU2HJE2gY" target="_blank"> Youtube </a> نگاه کنید.
+
 با استفاده از کد زیر فایروال را بر روی سرور خود نصب میکنید:
 
 <pre>yum install firewalld</pre>
