@@ -7,8 +7,6 @@
 البته الان خدماتی ارائه نمیدن و نمیتوانید سرور vps داخل یا خارج کشور از سایت میزبان داده پاسارگاد تهیه کنید،
 به همین علت بهتر هست از وب سایتی که لینکش را در پایین قرار داده ام، با استفاده از ارز دیجیتال یک vps تهیه بکنید.
 
-همچنین میتوانید از <a href="https://support.cloudzy.com/aff.php?aff=1557" target="_blank">اینجا سرور مجازی  (VPS) با ارز دیجیتال</a> بخرید. (با فیلتر شکن وارد لینک شوید)
-
  نرم افزار <a href="https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html" target="_blank"> PUTTY </a> را دانلود کنید
 
 بهتر هست این ویدیو را در <a href="https://youtu.be/eRKU2HJE2gY" target="_blank"> Youtube </a> نگاه کنید.
